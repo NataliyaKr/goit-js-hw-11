@@ -1,5 +1,5 @@
 import Notiflix, {Loading} from 'notiflix';
-import SimpleLightbox from 'simpleLightbox';
+import SimpleLightbox from 'simplelightbox';
 import 'simplelightbox/dist/simple-lightbox.min.css';
 import {refs} from './refs';
 import {renderGallery} from './create-gallery';
