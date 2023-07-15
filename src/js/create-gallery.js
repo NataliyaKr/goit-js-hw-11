@@ -1,5 +1,5 @@
 import {refs} from './refs';
-import 'simpleLightbox/dist/simple-lightbox.min.css';
+import 'simplelightbox/dist/simple-lightbox.min.css';
 
 export function createGallery(images) {
     return images
